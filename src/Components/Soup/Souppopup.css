@@ -1,0 +1,199 @@
+  .modal {
+    position: relative;
+    width: 366px;
+    height: 70px;
+    left: 30px;
+    top: 247px;
+    background-color: #F8FFA9;    ;
+    
+    border-radius: 0px 0px 10px 10px;
+    z-index: 9999;
+  }
+      .modal:active {
+ outline:0;
+}
+.modal:focus{    
+
+    outline:0;
+}
+    .modalHr {
+    border: 0;
+    height: 3px;
+    position: relative;
+    width: 366px;
+    background: #333;
+    bottom: 1px;
+    margin-block-end: 0px;
+    margin-block-start: 0px;
+    
+    }
+    .ReactModal__Overlay {
+    background-color: rgba(19,19,19,0.8);;
+    opacity: 0,7;
+    transition: opacity 2000ms ease-in-out;
+}
+
+.ReactModal__Overlay--after-open{
+    opacity: 1;
+}
+
+.ReactModal__Overlay--before-close{
+    opacity: 0;
+}
+    
+    .backis {
+
+    position: absolute;
+    height: 230px;
+    width: 366px;
+    top: -231px;
+    background: #FFE4CC;
+    border-radius: 10px 10px 0px 0px;
+    z-index: 1000;
+    
+  }
+  .headerP {
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-family: 'Lobster', cursive;   
+    font-size: 45px;
+    top: -26px;
+  }
+  .descriptionDiv{
+    position: relative;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+      
+  transform: translateY(-50%);
+  }
+  .descriptionP {
+      position: relative;
+      font-size: 20px;
+      font-family: 'Roboto', sans-serif;
+      line-height: 25px;
+      font-weight: 400;
+      width: 400px;
+      text-align: center;
+      top: -44px;
+      left: 31px;
+  }
+  .weightDiv {
+    position: relative;
+    display: flex;
+    justify-content: center;
+  }
+  .weightP {
+    position: relative;
+      font-size: 20px;
+      font-family: 'Roboto', sans-serif;
+      line-height: 25px;
+      font-weight: 600;
+      width: 300px;
+      text-align: center;
+      top: -64px;
+      left: 31px;
+  }
+  .closeDiv {
+  position: relative;
+        top: 0px;
+      right: 0px;
+  }
+    .closeButton {
+      position: relative;
+      background: none;
+      border: 0;
+      font-size: 20px;
+      font-family: 'Roboto', sans-serif;
+      top: -319px;
+      right: -166px;
+      padding: 5px;
+    }
+    .selectAddDiv {
+      position: relative;
+      bottom: 164px;
+      
+    }
+    .addSelect {
+    background: none;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 40px;
+    width: 50px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    text-indent: 10px;
+    }
+    .cancelB3 {
+    background: none;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 40px;
+    width: 110px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    z-index: 2;
+    }
+    .addB {
+    background: none;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 40px;
+    width: 80px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    z-index: 2;
+    }
+    .knapp:active {
+    outline:0;
+    }
+    .knapp:focus{    
+    outline:0;
+    }
+
+   .multi-select {
+  --rmsc-main: #000000 !important;
+  --rmsc-hover: #ffcea3 !important;
+  --rmsc-selected: #ffcea3 !important;
+  --rmsc-border: #000000 !important;
+  --rmsc-gray: #000000 !important;
+  --rmsc-bg: #FFE4CC !important;
+  --rmsc-p: 0px; /* Spacing */
+  --rmsc-radius: 4px; /* Radius */
+  --rmsc-h: 20px; /* Height */
+  position: relative;
+      font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    width: 270px;
+    text-align: left;
+    top: -217px;
+      left: 48px;
+    
+}
+
+    /* .ingredientsSelect {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    background: none;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: -230px;
+    width: 60px;
+    } */
+    

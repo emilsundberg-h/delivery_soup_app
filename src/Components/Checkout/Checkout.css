@@ -1,0 +1,118 @@
+.checkoutDiv {
+    width: 414px;
+    display: block;
+    height: 70px;
+    background-color: #D5FFD4;
+    position: absolute;
+    top: 0px;
+}
+    .checkoutP{
+        position: relative;
+        top: -39px;
+    }
+    .checkoutHr {
+    border: 0;
+    height: 3px;
+    position: relative;
+    top: 45px;
+    width: 414px;
+    background: #333;
+}
+
+.addMoreDiv {
+    width: 414px;
+    height: 304px;
+    background-color: #F8FFA9;
+    position: absolute;
+    margin-top: 23px;
+}
+.feelPleased {
+    position: relative;
+    top: -6px;
+    font-size: 27pt;
+    line-height: 1.2;
+
+}
+.foodTitleDiv {
+    width: 414px;
+    display: flex;
+    position: relative;
+    top: -27px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.foodTitleButton1 {
+background: none;
+border: 3px solid #000000;
+box-sizing: border-box;
+border-radius: 5px;
+height: 40px;
+width: 140px;
+font-size: 20px;
+font-family: 'Roboto', sans-serif;
+font-weight: 700;
+margin-bottom: 10px;
+}
+.foodTitleButton2 {
+background: none;
+border: 3px solid #000000;
+box-sizing: border-box;
+border-radius: 5px;
+height: 40px;
+width: 115px;
+font-size: 20px;
+font-family: 'Roboto', sans-serif;
+font-weight: 700;
+
+}
+.checkoutHr2 {
+        border: 0;
+    height: 3px;
+    position: relative;
+    top: -13px;
+    width: 414px;
+    background: #333;
+}
+.checkoutHr3 {
+        border: 0;
+    height: 3px;
+    position: relative;
+    top: -80px;
+    width: 414px;
+    background: #333;
+}
+.giftDiv {
+    width: 414px;
+
+    background-color: #C5FFFF;
+    position: relative;
+    top: -58px;
+    display: block;
+
+}
+.giftP {
+    position: relative;
+    font-size: 30pt;
+    top: -229px;
+    line-height: 1.2;
+}
+.payDiv {
+    width: 414px;
+    height: 80px;
+    background-color: #FFE4CC;
+    position: relative;
+    top: -103px;
+}
+.payB {
+    position: relative;
+    background: none;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 40px;
+    width: 160px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    bottom: 0px;
+}

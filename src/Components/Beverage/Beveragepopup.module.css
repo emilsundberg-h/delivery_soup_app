@@ -1,0 +1,219 @@
+  .modal2 {
+    position: relative;
+    width: 366px;
+    height: 70px;
+    left: 30px;
+    top: 167px;
+    background-color: #FFE4CC;    ;
+    
+    border-radius: 0px 0px 10px 10px;
+    z-index: 9999;
+  }
+      .modal:active {
+ outline:0;
+}
+.modal2:focus{    
+
+    outline:0;
+}
+    .modalHr2 {
+    border: 0;
+    height: 3px;
+    position: relative;
+    width: 366px;
+    background: #333;
+    bottom: 1px;
+    margin-block-end: 0px;
+    margin-block-start: 0px;
+    
+    }
+    .ReactModal__Overlay {
+    background-color: rgba(19,19,19,0.8);;
+    opacity: 0,7;
+    transition: opacity 2000ms ease-in-out;
+}
+
+.ReactModal__Overlay--after-open{
+    opacity: 1;
+}
+
+.ReactModal__Overlay--before-close{
+    opacity: 0;
+}
+    
+    .backis2 {
+
+    position: absolute;
+    height: 150px;
+    width: 366px;
+    top: -151px;
+    background: #C5FFFF;
+    border-radius: 10px 10px 0px 0px;
+    z-index: 1000;
+  }
+  /* .imagePopup {
+    position: relative;
+    width: 366px;
+    top: -151px;
+  } */
+  .headerP2 {
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-family: 'Lobster', cursive;   
+    font-size: 45px;
+    top: -26px;
+  }
+  .descriptionDiv2{
+    position: relative;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: -11px;
+  transform: translateY(-50%);
+  }
+  .descriptionP2 {
+      position: relative;
+      font-size: 20px;
+      font-family: 'Roboto', sans-serif;
+      line-height: 25px;
+      font-weight: 400;
+      width: 400px;
+      text-align: center;
+      top: -44px;
+      left: 31px;
+  }
+  .priceDiv2 {
+    position: relative;
+    display: flex;
+    justify-content: center;
+  }
+  .priceP2 {
+    position: relative;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 25px;
+    font-weight: 600;
+    width: 300px;
+    text-align: center;
+    top: -64px;
+    left: 31px;
+  }
+  .weightDiv2 {
+    position: relative;
+    display: flex;
+    justify-content: center;
+  }
+  .weightP2 {
+    position: relative;
+      font-size: 17px;
+      font-family: 'Roboto', sans-serif;
+      line-height: 25px;
+      font-weight: 600;
+      width: 300px;
+      text-align: center;
+      top: -115px;
+      left: 31px;
+  }
+  .closeDiv2 {
+  position: relative;
+        top: 0px;
+      right: 0px;
+  }
+    .closeButton2 {
+      position: relative;
+      background: none;
+      border: 0;
+      font-size: 20px;
+      font-family: 'Roboto', sans-serif;
+      top: -290px;
+      right: -166px;
+      padding: 5px;
+    }
+    .selectAddDiv2 {
+      position: relative;
+      bottom: 173px;
+      
+    }
+    .addSelect2 {
+    background: none;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 40px;
+    width: 50px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    text-indent: 10px;
+    }
+    .cancelB2 {
+    background: none;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 40px;
+    width: 110px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    z-index: 2;
+    }
+    .addB2 {
+    background: none;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 40px;
+    width: 80px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    z-index: 2;
+    }
+    .knapp:active {
+    outline:0;
+    }
+    .knapp:focus{    
+    outline:0;
+    }
+
+   .multi-select {
+  --rmsc-main: #000000 !important;
+  --rmsc-hover: #ffcea3 !important;
+  --rmsc-selected: #ffcea3 !important;
+  --rmsc-border: #000000 !important;
+  --rmsc-gray: #000000 !important;
+  --rmsc-bg: #FFE4CC !important;
+  --rmsc-p: 0px; /* Spacing */
+  --rmsc-radius: 4px; /* Radius */
+  --rmsc-h: 20px; /* Height */
+  position: relative;
+      font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    width: 270px;
+    text-align: left;
+    top: -217px;
+      left: 48px;
+    
+}
+
+    /* .ingredientsSelect {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    background: none;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: -230px;
+    width: 60px;
+    } */
+    

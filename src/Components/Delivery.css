@@ -1,0 +1,150 @@
+.deliveryDiv {
+    width: 414px;  
+    height: 732px;
+    background-color: #C5FFFF;
+    position: absolute;
+  
+ 
+
+}
+.deliveryP {
+    font-size: 30pt;
+    line-height: 1;
+}
+.timeDiv {
+    position: relative;
+    bottom: 16px;
+}
+.timeB {
+    background: none;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    
+}
+.timeB:hover {
+    background-color: #000000;
+    color: #C5FFFF;
+}
+    
+
+.timeB:active {
+    background-color: #000000;
+    color: #C5FFFF;
+}
+.timeB:focus{    
+    background-color: #000000;
+    color: #C5FFFF;
+    outline:0;
+}
+
+
+
+.adressHr {
+    border: 0;
+    height: 3px;
+    position: relative;
+    width: 414px;
+    background: #333;
+    margin-block-end: 0px;
+    margin-block-start: 0px;
+    bottom: -732px;
+
+
+}
+.adressDiv {
+    width: 414px;  
+    height: 590px;
+    background-color: #FFE4CC;
+    position: relative;
+ 
+    bottom: -687px;
+}
+
+.inputDiv {
+    position: relative;
+    bottom: -23px;
+}
+.adressP {
+        position: relative;
+ 
+    bottom: -44px;
+}
+.adressI {
+    background: none;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 40px;
+    width: 300px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    outline:0;
+    text-indent: 10px;
+    }
+
+::placeholder {
+  color: #000000;
+  text-indent: 10px;
+}
+.inputHr {
+    border: 0;
+    height: 3px;
+    position: absolute;
+    width: 414px;
+    background: #333;
+    
+    margin-block-end: 0px;
+    margin-block-start: 0px;
+    bottom: 110px;
+}
+.confirmB {
+    background: #000000;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 40px;
+    width: 137px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #FFE4CC;
+    font-weight: 900;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 20px;
+    outline:0;
+    position: relative;
+    bottom: -33px;
+}
+.cancelB {
+    background: none;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 40px;
+    width: 137px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+ 
+    font-weight: 900;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 20px;
+    outline:0;
+        position: relative;
+    bottom: -33px;
+}

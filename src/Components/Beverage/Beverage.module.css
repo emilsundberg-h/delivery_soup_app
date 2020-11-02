@@ -1,0 +1,190 @@
+body {
+width: 414px;
+
+
+  color: rgb(0, 0, 0);
+
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  font-family: 'Lobster', cursive;   
+  font-size: 45px;
+line-height: 56px;
+
+}
+.menuHat {
+    height: 150px;
+}
+.catagory {
+    position: absolute;
+    width: 415px;
+    height: 150px;
+    background-color: #C5FFFF;
+    z-index: auto;
+}
+.titlePrice {
+  position: relative;
+  top: -54px;
+}
+.catagoryTitle {
+    position: relative;
+    text-align: left;
+    top: -20px;
+    margin-left: 20px;
+}
+.catagoryPrice {
+    position: relative;
+    left: -14px;
+   bottom: 116px;
+   margin: 0px;
+text-align: right;
+font-size: 32px;
+font-family: 'Roboto', sans-serif;
+font-weight: 700;
+}
+
+.topButton {
+    position: relative;
+    right: -11px;
+    top: 10px;
+    width: 392px;
+    display: flex;
+    justify-content: space-between
+}
+.sb1 {
+background: none;
+border: 2px solid #000000;
+box-sizing: border-box;
+border-radius: 5px;
+height: 22px;
+width: 84px;
+font-size: 12px;
+font-family: 'Roboto', sans-serif;
+font-weight: 700;
+margin-top: 0px;
+
+
+}
+.sb2 {
+background: none;
+border: 2px solid #000000;
+box-sizing: border-box;
+border-radius: 5px;
+height: 22px;
+width: 84px;
+font-size: 12px;
+font-family: 'Roboto', sans-serif;
+font-weight: 700;
+margin-top: 0px;
+
+
+}
+.sb3 {
+background: none;
+border: 2px solid #000000;
+box-sizing: border-box;
+border-radius: 5px;
+height: 22px;
+width: 84px;
+font-size: 12px;
+font-family: 'Roboto', sans-serif;
+font-weight: 700;
+margin-top: 0px;
+
+
+}
+.menu {
+  position: relative;
+  left: 3px;
+  width: 380px;
+  display: flex;
+  justify-content: space-between;
+    
+    
+}
+.menuTitle {
+  position: relative;
+  bottom: 163px;
+  left: 11px;
+  color: #000000;
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  border: 0px;
+  background: none;
+  margin-bottom: 0px;
+  text-decoration: none;
+  }
+.menuHr {
+    border: 0;
+    height: 3px;
+    position: absolute;
+    width: 414px;
+    background: #333;
+    top: 156px;
+    margin-block-end: 0px;
+    margin-block-start: 0px;
+}
+
+.foodContext {
+
+  color: black;
+  margin: 0px;
+  margin-block-end: 0px;
+}
+
+.transparentBlock {
+background: #ffffff;
+opacity: 0.5;
+border: 0px;
+box-sizing: border-box;
+height: 80px;
+position: relative;
+margin-top: -112px;
+display: flex;
+bottom: 30px;
+}
+
+.foodContent {
+  display:flex;
+  flex-direction: row
+}
+.foodName {
+  position: relative;
+  margin: 0px;
+
+  margin-block-end: -46px;
+
+}
+.foodName2 {
+  position: relative;
+
+  margin-top: -91px;
+  bottom: 10px;
+}
+
+.foodAdd {
+background: none;
+border: 2px solid #000000;
+box-sizing: border-box;
+border-radius: 5px;
+height: 30px;
+width: 30px;
+font-size: 20px;
+font-weight: 700;
+position: relative;
+margin-left: 0px;
+bottom: 117px;
+right: -165px;
+
+}
+.foodAdd:active {
+ outline:0;
+}
+.foodAdd:focus{    
+
+    outline:0;
+}
+
+.flex {
+    display:flex;
+}
