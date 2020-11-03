@@ -15,6 +15,9 @@ https://www.figma.com/file/78IYpczBPdsY9d8MmKA68W/The-soup-delivery?node-id=1%3A
 
 We presented our prototypes for the teacher, who works as a UX desiger. She gaves us feed back and came with suggestions som we could improve the. I took the suggestions with me to the code project.
 
+If you're interested to see our progress in the UX part, checkot this link to see our epathy map, flow chart, interviews and feedback from our teacher Sussie. 
+https://docs.google.com/document/d/11LOJeJ1whCEzxbyWqQ3Nwezmro4quVw4Nh52l5SmJdI/edit
+
 ### Code
 The prototype from the UX was quite big, so I had to sort things out and find the mvp. It led to that "the give-away soup" wasn't a priority.
 
