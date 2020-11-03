@@ -30,7 +30,10 @@ I think i should work with the images more, in the pop up and the checkout.
 
 The "give away mode" should be able to the next realese. 
 
+Hope you like this project
 
+Sincerely yours
+Emil Sundberg
 
 
 
