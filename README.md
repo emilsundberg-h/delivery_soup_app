@@ -1,3 +1,36 @@
+## Soup delivery food add - What's Soup
+
+### UX 
+
+This project is a UX school project from KYH Fronted devloper. The task was to build att delivery app for soups. It should be possible to order a soup for you or a friend.
+
+In the ux part we did research, empathy map, flow chart, interviews and a complete prototyp in figma.
+
+To prototyp don't have all links set, so if you try it you have to order "Chillie billie - Fried Tofu - The Cheesy On - Beetroot hummus - No pancakes - Fritz Kola. 
+
+Prototyp: https://www.figma.com/proto/78IYpczBPdsY9d8MmKA68W/The-soup-delivery?node-id=1%3A327&scaling=min-zoom
+
+You can see the whole figma project here: 
+https://www.figma.com/file/78IYpczBPdsY9d8MmKA68W/The-soup-delivery?node-id=1%3A327
+
+We presented our prototypes for the teacher, who works as a UX desiger. She gaves us feed back and came with suggestions som we could improve the. I took the suggestions with me to the code project.
+
+###
+The prototype from the UX was quite big, so I had to sort things out and find the mvp. It led to that "the give-away soup" wasn't a priority.
+
+Things to work on:
+The counter when you add somethings to the shoppong cart. Right now it's not working. 
+
+In the checkout you should be able to see which ingridients you have removed from the soup. The props is ready, but not implemented.
+
+I think i should work with the images more, in the pop up and the checkout.
+
+The "give away mode" should be able to the next realese. 
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
